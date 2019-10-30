@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "simulacion-inventarios",
+    "private_key_id": "bee9c2cb45fb06d969e34fd5cc0777891461bb7d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLS7CaUqQ0BcfO\n5GfaypRRDeRw8CTqWzBk3wmhAN3y6qEV/gjAugkVJP1aLiVLLWa0RA1XquSPLiU/\nVcM4WicT7k29SGYOLWBwenrDQy6a9TLuK2QhtubNdtG4q4lBQTOkV2jqeAioBh2t\nDjRAbYSDeQJR14PpMsPeZ4EEpiK974YyP8LQdGNjSw2b0PCWfG17yNKS4A2AyFYF\n13H6Nt6i4qtmPGKEHZ8Fn8j18DHWDPXaDL54sZZtoW8eL4G6kRwzEP+ZpAE8X2yl\nAzvGr/WBBjoPxx0B71mISKsu1SyXbSIfKuzikji+CMBygVV6u4uKuagPi3Wv2kO6\nQzmuAMg/AgMBAAECggEAAjjfZN7bor7S3LCVHY7sxcxAcDLMi/aPc5SBTVG7uLPY\nhQbL8fMl0PIJnqYszyG2yTpqshLWWZhlXLjMB/qcM/uxvsrIYgKETtcNXU8Vj8BI\nozcK/mSyEuYJ23XVFzbokX8Ze+AVV0TdtVSMLdjxa72C9XZIMvCt4j7pdn8F/9yr\n03Ghrj4su5OkwpvveV5E06TeSkR0/XG2EedF26wcsA44D3wN6PYoKSpK1FN2cM42\nSnOLv4QtIiPDMXx8Pln+CeS2+jIQgUYMn/D2UJv5i+vup9zW/btEIm7i66hhOddA\nN3VKUp3CnTUKJAVQmGt0WBvvXQcF4fUqoSndoehRtQKBgQC9y7xPdj4ebZ7ftcbl\nNlSinVNrJXCs5htIlwx5ARk2tAiN1LXMOzdW5PCaM3nG30VUv5mlYw4/Bq6wRyOQ\nKIY5ac8/7+M0ycK/TaKT2QGZzpQsXrFOLz49wgjAOOkv2UxiBLAGx6CBWLuaxbLc\nxmdCxi7MtQ7kdMhtDxcZm+fWzQKBgQC74mwolCgS0w4prJJpFQv0BtAEl/riR/yg\nz05GfAAP9P8Pj8iaMtiKKSS3XKb0/64EmTQ+KljeHp4wBsAagHozfsH2xz+WIPAy\n6gbaOr2fq7eTEVDazbtNje1QUkhT28L0kxJGeuiZp0DRrHM7rVarECKtFZYtVUHu\nlYDle4VjOwKBgQCHkub64/3PgoKATrq6tKqUVklmOiJYfy5yFePE8/Hsz4FkvtL2\nBj6rhXIQ1EBivM4rkYnRSAa/IqjaJpbSvP/UNy7h/xuPc6f3Ox+s+NBZ6+SQJTwG\nG10chGP32y9HDLOxOKP809BlVNr93ca8ScUtP5/iflsa+gjJToQzuNhM6QKBgBQQ\np0piIDF6dr2+n1g3ljI2dAq5jGKUG4e0/AANCBisKn0n9t145qVCpZgrfe0WTShS\nkEC/VwRJss0gO23ZILPVKrPHLaRD2kMluRufQFcICK/dHoxvgjxTFvAICY9jHdvu\nxPnf8G1Qbly2FQxfg6z7KSjg8EvhGgx3zO81FNa3AoGAJjcV/ZZm3BBY+Iic4KiW\ncLQmlJ8nuXsGl9i5qXvBzPJGgiOeqjS+/2DhrCB98mvsMWCP8hn6WFHGj45BRJuN\nC7a/fXfbLgftTkzFROJU3lIWz8kswldeIS5prWo+0oHnRLMpNaEykMNJVKLTRSIW\nB2UgEbehkOzIcxZDtInmvLM=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-3nw4w@simulacion-inventarios.iam.gserviceaccount.com",
+    "client_id": "111251623899713787814",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3nw4w%40simulacion-inventarios.iam.gserviceaccount.com"
+}

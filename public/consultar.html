@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Consultar Aplicativo</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/estilos.css">
+    <link rel="shortcout icon" href="../img/logo-Davivienda.png">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <!--<script src="../js/rules.js"></script>-->
+    <script src="https://www.gstatic.com/firebasejs/7.2.2/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/7.2.2/firebase-analytics.js"></script>
+
+    <script src="../js/dbconfig.js">
+    </script>
+</head>
+
+<body>
+    <div class="content">
+        <div id="jquery-accordion-menu" class="jquery-accordion-menu">
+            <div class="jquery-accordion-menu-header">
+                <p class="TituloLogo"> Arquitectura Empresarial </p>
+            </div>
+            <ul>
+                <li class="active"><a href="index.html"><i class="fa fa-home"></i>Inicio </a></li>
+                <li><a href="#"><i class="fa fa-glass"></i>Inventario de Información </a></li>
+                <li><a href="#"><i class="fa fa-file-image-o"></i>Inventario de Infraestructura </a></li>
+                <li><a href="#"><i class="fa fa-cog"></i>Google Data Studio </a>
+                </li>
+            </ul>
+            <div class="jquery-accordion-menu-footer">Semillero de Arquitectura Empresarial<br>(Enterprise Architect as a Factory) </div>
+        </div>
+    </div>
+    <div class="barra contenedor">
+        <nav id="navegacionM" class="navegacion">
+            <a href="index.html">Inicio</a>
+            <a target="blank" href="consultar.html">Consultar</a>
+            <a target="blank" href="#">Extras</a>
+        </nav>
+    </div>
+    <main>
+    </main>
+    <script>
+        var db = firebase.databaseURL
+    </script>
+</body>
+
+</html>
